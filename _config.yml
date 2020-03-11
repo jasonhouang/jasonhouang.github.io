@@ -21,7 +21,7 @@
 title: Jason's Blog
 SEOTitle: Jason Blog | 博客
 email: jasonhouang@gmail.com
-description: "Work as a hacker, hack as a artist."
+description: "Work as a hacker, hack as an artist."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
